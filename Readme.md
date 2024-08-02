@@ -48,4 +48,4 @@ The AZUBI Form Submission Web Application is a lightweight web-based tool design
 
 ### Using terraform to provision DynamoDB
 
-#### [Read Here](../verson3/terra%20files/README.md) for more info.
+#### [Read Here](./terra_files/README.md) for more info.
