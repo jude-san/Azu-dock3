@@ -1,6 +1,7 @@
 FROM php:8.2-apache
-# WORKDIR /var/www/html
 
 COPY . /var/www/html
+
+WORKDIR web2
 
 EXPOSE 80
